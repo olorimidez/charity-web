@@ -1,0 +1,95 @@
+.container {
+  background-color: white;
+}
+
+.redDiv{
+  width: 100%;
+}
+
+.img_children{
+  height: 18rem;
+  width: 100%;
+  object-fit: cover;
+  opacity: 0.35;
+}
+
+.join{
+  padding-top: 2rem;
+  font-size: 2.5rem;
+  font-weight: 500;
+  line-height: 2.4rem;
+}
+
+.changing{
+  font-size: .9rem;
+  font-weight: 500;
+}
+.kind{
+  padding-left: 3rem;
+}
+
+.circle{
+  height: 5rem;
+  width: 5rem;
+  background: rgb(217, 177, 177);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 2rem 0 1rem 0;
+}
+
+.col_fund{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.goals{
+  text-align: justify;
+  padding-bottom: 1.5rem;
+}
+.reach{
+  background-color: rgb(237, 233, 226);
+}
+.donate{
+  background-color: rgb(179, 167, 145);
+}
+.team{
+  background: rgb(137, 235, 202);
+  padding: 0;
+}
+.team_img{
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+  object-fit: cover;
+}
+.force{
+  background: black;
+  display: flex;
+  padding: 0;
+}
+.red{
+  height: 10rem;
+  width: 10rem;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  overflow: hidden;
+}
+.child{
+  height: 156px;
+  width: 311px;
+  object-fit: cover;
+}
+.spons{
+  padding-top: 1rem;
+  line-height: 0.3em;
+}
+.app{
+  padding-top: 6rem;
+}
+.target{
+  padding-bottom: 5rem;
+}
